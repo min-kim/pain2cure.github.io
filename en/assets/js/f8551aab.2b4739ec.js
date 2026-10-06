@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpain2_cure_github_io=self.webpackChunkpain2_cure_github_io||[]).push([["609"],{8208(e,i,a){a.r(i),a.d(i,{default:()=>s});var c=a(4848);a(6540);var r=a(1085);function s(){return(0,c.jsxs)(r.A,{children:[(0,c.jsx)("h1",{children:"My React page"}),(0,c.jsx)("p",{children:"This is a React page"})]})}}}]);

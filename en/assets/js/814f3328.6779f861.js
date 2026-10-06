@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpain2_cure_github_io=self.webpackChunkpain2_cure_github_io||[]).push([["833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[]}')}}]);

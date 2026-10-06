@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpain2_cure_github_io=self.webpackChunkpain2_cure_github_io||[]).push([["191"],{5516(u){u.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);
